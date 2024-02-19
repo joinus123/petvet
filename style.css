@@ -1,0 +1,42 @@
+*{
+
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+
+}
+:root{
+
+    --primary-color:#fd4c82;
+
+}
+.icon-wrapper{
+    color:var(--primary-color)
+}
+.bg-color{
+    background-color: grey;
+}
+.icon-text{
+    color: black;
+}
+ .nav-link a{
+    color:#fff;
+    background-color: #fd4c82;
+    padding-bottom: .8rem;
+    padding:10px 15px;
+    border-radius: 2px;
+
+}
+a{
+    text-decoration: none;
+}
+
+ .slider-heading{
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+ 
+}
+.slider-heading{
+    margin-top: 40px;
+}
